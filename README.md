@@ -28,60 +28,44 @@
     <section class="container">
         <img
             class="icon"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="90" height="90"
         />
         <img
             class="icon"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="90" height="90"
         />
 	<img
             class="icon"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="90" height="90"
         />
 	<img
             class="icon"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="90" height="90"
         />
 	<img
             class="icon"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="90" height="90"
         />
 	<img
             class="icon"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="90" height="90"
         />
 	<img
             class="icon"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="90" height="90"
         />
 	<img
             class="icon"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="90" height="90"
         />
 	<img
             class="icon"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original.svg" width="90" height="90"
         />
 	<img
             class="icon"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" width="90" height="90"
         />
     </section>
+
 </article>
-<style>
-    body {
-        font-family: sans-serif;
-    }
-    .container {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 1rem;
-    }
-    .badge {
-        padding: 0.5rem;
-        border-radius: 0.25rem;
-    }
-    .icon {
-        width: 2rem;
-    }
-</style>
